@@ -1,0 +1,4 @@
+Adafruit CircuitPython 10.0.3 on 2025-10-17; Adafruit QT Py ESP32-S3 4MB Flash 2MB PSRAM with ESP32S3
+Board ID:adafruit_qtpy_esp32s3_4mbflash_2mbpsram
+UID:4F21AFA5190E
+MAC:88:81:CB:3F:10:4A
